@@ -1,1 +1,1 @@
-# FrontEndAdminDashboard
+# Front End: Administrator Dashboard Project
